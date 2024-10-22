@@ -23,6 +23,8 @@ body {
 .box-1 {
   width: 240px;
   height: 80px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .indigo {
