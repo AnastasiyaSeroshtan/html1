@@ -9,7 +9,7 @@ body {
   color: #2a2a2a;
 }
 
-.box {
+.box-hello {
   /* box-sizing: border-box; */
   width: 150px;
   height: 150px;
@@ -18,4 +18,21 @@ body {
   padding: 30px;
   margin: 40px;
   background-color: #ffeb3b;
+}
+
+.box-1 {
+  width: 240px;
+  height: 80px;
+}
+
+.indigo {
+  background-color: #3f51b5;
+}
+
+.green {
+  background-color: #4caf50;
+}
+
+.amber {
+  background-color: #ffc107;
 }
