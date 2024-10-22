@@ -9,7 +9,7 @@ body {
   color: #2a2a2a;
 }
 
-.box-hello {
+.box {
   /* box-sizing: border-box; */
   width: 150px;
   height: 150px;
