@@ -39,3 +39,17 @@ body {
 .amber {
   background-color: #ffc107;
 }
+
+.pane {
+  display: none;
+  margin-top: 8px;
+}
+
+.pane.is-active {
+  display: block;
+}
+
+.controls {
+  display: flex;
+  gap: 8px;
+}
